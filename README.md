@@ -18,9 +18,9 @@ Basic 3d printable parts for connecting ventilator airway pipes. With luck we wo
 
 ### Triway connector
 
-![4mm-triway.png]
+![Triway Connector](4mm-triway.png)
 
 
 ### Dual connector
 
-![4mm-dual.png]
+![Dual connector](4mm-dual.png)
