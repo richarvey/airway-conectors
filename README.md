@@ -15,3 +15,12 @@ Basic 3d printable parts for connecting ventilator airway pipes. With luck we wo
 
 - 25% infill
 - supports on build plate only
+
+### Triway connector
+
+![4mm-triway.png]
+
+
+### Dual connector
+
+![4mm-dual.png]
